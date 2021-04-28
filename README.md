@@ -1,16 +1,14 @@
-# GRAND OFFICIAL
+# Mr Z
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
+DEPLOY HERE - [Mr Z](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FGODBOYX%2FMr_Z&template=https%3A%2F%2Fgithub.com%2FGODBOYX%2Mr_Z)
 [.](https://heroku.com/deploy)
-Credits - [LEGEND X](https://t.me/legendx22)
+Credits - [GODBOYX](https://t.me/GODBOYX)
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/grand50_bot)
-# TUTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
+Check me on [TELEGRAM](https://t.me/MrZ_bot)
+# TUTORIAL COMMING SOON
 
 <details>
 <summary> CREDITS </summary>
-<h1> LEGEND X </h1>
-<h1> PROBOY X </h1>
-<h1> TEAMLEGEND </h1>
+<h1> GODBOYX </h1>
 </details>
