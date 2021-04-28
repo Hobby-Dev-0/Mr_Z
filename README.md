@@ -5,7 +5,7 @@ DEPLOY HERE - [Mr Z](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fg
 Credits - [GODBOYX](https://t.me/GODBOYX)
 
 # TELEGRAM
-Check me on [TELEGRAM](https://t.me/MrZ_bot)
+Check me on [TELEGRAM](https://t.me/MrZX_bot)
 # TUTORIAL COMMING SOON
 
 <details>
