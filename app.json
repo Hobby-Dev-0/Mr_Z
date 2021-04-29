@@ -33,16 +33,16 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1100231654"
+         "value": "1742906647"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "GODBOYX"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1100231654"
+         "value": "1742906647"
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
@@ -50,7 +50,7 @@
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1001215677310"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -80,12 +80,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1742906647"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1742906647"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -105,7 +105,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1100231654"
+         "value": "1742906647"
       }
    },
    "keywords": [
@@ -115,6 +115,6 @@
       "bot"
    ],
    "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
-   "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
+   "name": "MR.Z bot",
+   "repository": "https://github.com/GODBOYX/Mr_Z"
 }
