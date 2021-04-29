@@ -44,9 +44,9 @@
          "required": false,
          "value": "1742906647"
       },
-"GRAND_IMG": {
+"Z_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
+         "value": "https://telegra.ph//file/179a334b000a0fe01a13c.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
+   "logo": "https://telegra.ph//file/179a334b000a0fe01a13c.jpg",
    "name": "MR.Z bot",
    "repository": "https://github.com/GODBOYX/Mr_Z"
 }
